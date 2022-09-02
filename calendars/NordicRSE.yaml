@@ -3,6 +3,6 @@ description: |
   All Nordic RSE events
 include:
   - community.yaml
-  - Conferences.yaml
+  - conferences.yaml
 
 events: [ ]
