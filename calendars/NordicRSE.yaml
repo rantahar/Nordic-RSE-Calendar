@@ -1,0 +1,7 @@
+name: Nordic RSE
+description: |
+  All Nordic RSE events
+include:
+  - community.yaml
+
+events: [ ]
