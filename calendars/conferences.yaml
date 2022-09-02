@@ -1,0 +1,25 @@
+name: Community
+timezone: Europe/Stockholm
+description: |
+  Conferences, workshops and other large individual
+  events
+
+events:
+  - summary: Unconference 2022
+    description: |
+      Nordic RSE 2022 Unconference. See the event page
+      at https://nordic-rse.org/events/2022-online-unconference/
+      and registration page at https://indico.neic.no/e/nordic-rse-2022
+    begin: 2022-10-18 13:00:00
+    duration: { hours: 3 }
+
+  - summary: Unconference 2022
+    description: |
+      Nordic RSE 2022 Unconference. See the event page
+      at https://nordic-rse.org/events/2022-online-unconference/
+      and registration page at https://indico.neic.no/e/nordic-rse-2022
+    begin: 2022-10-19 13:00:00
+    duration: { hours: 3 }
+
+
+
