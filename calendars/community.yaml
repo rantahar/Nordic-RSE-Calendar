@@ -14,7 +14,7 @@ events:
     duration: { hours: 1 }
     repeat:
       interval: {weeks: 2}
-      until: 2022-12-22 24:00:00
+      until: 2022-12-22 23:59:59
 
   - summary: RSE coffee break
     description: |
@@ -27,6 +27,6 @@ events:
     duration: { minutes: 30 }
     repeat:
       interval: {weeks: 1}
-      until: 2023-06-30 24:00:00
+      until: 2023-06-30 23:59:59
 
 
