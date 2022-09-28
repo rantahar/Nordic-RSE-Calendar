@@ -31,4 +31,15 @@ events:
       interval: {weeks: 1}
       until: 2023-06-30 23:59:59
 
+  - summary: Nordic-RSE board meeting
+    description: |
+      In the meeting we will briefly present the association
+      activities and financial statements for 2022. The meeting is
+      also to make important decisions regarding the association, such
+      as deciding the size of the membership fee and selecting the
+      board for 2022-2023.
 
+      HackMD (including join details): https://hackmd.io/2dL_zztLQBi0UO0hfT7LFQ
+    location: see hackmd
+    begin: 2022-10-20 14:00:00
+    duration: { minutes: 90 }
