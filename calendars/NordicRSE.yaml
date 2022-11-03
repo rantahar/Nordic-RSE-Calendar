@@ -4,5 +4,6 @@ description: |
 include:
   - community.yaml
   - conferences.yaml
+  - series.yaml
 
 events: [ ]
