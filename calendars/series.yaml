@@ -4,9 +4,9 @@ description: |
   Recurring events intended for a large audience.
 
 events:
-  - summary: Chapel: Making Parallel Programming Productive, from laptops to supercomputers
+  - summary: "Chapel: Making Parallel Programming Productive, from laptops to supercomputers"
     description: |
-      Over the past few decades, a gulf has existed between 'mainstream' programming languages—like Python, Java, C++, Rust, or Swift—and  technologies used in practice for programming supercomputers—like MPI, OpenSHMEM, OpenMP, CUDA, OpenCL, or OpenACC.
+      Over the past few decades, a gulf has existed between mainstream programming languages—like Python, Java, C++, Rust, or Swift—and  technologies used in practice for programming supercomputers—like MPI, OpenSHMEM, OpenMP, CUDA, OpenCL, or OpenACC.
       This gulf results in making High Performance Computing something of a specialized skill that may not  be readily available to the general programmer or applied computational scientist.
       In some ways, the problem has even gotten worse over time, as the end of Moore's law has led to building supercomputers using manycore processors and computational accelerators like GPUs.
       
