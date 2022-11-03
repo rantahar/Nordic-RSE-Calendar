@@ -13,7 +13,7 @@ events:
       In this talk, I will introduce [Chapel](https://chapel-lang.org/), an open-source language created to bridge this gulf.
       Chapel strives to support code that is similarly readable/writeable as Python, yet without sacrificing the portability and scalable performance required to utilize supercomputers effectively.
       Specifically, I will provide motivation for Chapel, present some of its unique features and themes, introduce flagship applications of Chapel, and give a glimpse into our team's current priorities.
-    location: zoom, link in hackmd: <https://hackmd.io/@nordic-rse/seminar-november-2022>
+    location: "zoom, link in hackmd: <https://hackmd.io/@nordic-rse/seminar-november-2022>"
     begin: 2022-11-30 16:00:00
     duration: {hours: 1}
 
