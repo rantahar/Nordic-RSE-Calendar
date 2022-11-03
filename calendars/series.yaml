@@ -9,7 +9,7 @@ events:
       Over the past few decades, a gulf has existed between 'mainstream' programming languages—like Python, Java, C++, Rust, or Swift—and  technologies used in practice for programming supercomputers—like MPI, OpenSHMEM, OpenMP, CUDA, OpenCL, or OpenACC.
       This gulf results in making High Performance Computing something of a specialized skill that may not  be readily available to the general programmer or applied computational scientist.
       In some ways, the problem has even gotten worse over time, as the end of Moore's law has led to building supercomputers using manycore processors and computational accelerators like GPUs.
-
+      
       In this talk, I will introduce [Chapel](https://chapel-lang.org/), an open-source language created to bridge this gulf.
       Chapel strives to support code that is similarly readable/writeable as Python, yet without sacrificing the portability and scalable performance required to utilize supercomputers effectively.
       Specifically, I will provide motivation for Chapel, present some of its unique features and themes, introduce flagship applications of Chapel, and give a glimpse into our team's current priorities.
