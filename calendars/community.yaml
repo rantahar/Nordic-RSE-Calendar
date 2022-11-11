@@ -6,6 +6,14 @@ description: |
   Mainly the biweekly community meetings and coffee breaks.
 
 events:
+  - summary: What Research Group Leaders Need to Know About Software Work
+    description: |
+      As a group leader, what do you need to know to get the most from your group's
+      data and software? How do you get the most long-term benefit from the work your group does?
+      location: https://aalto.zoom.us/s/62141049461
+    begin: 2022-11-15 14:00:00
+    duration: { hours: 1 }
+
   - summary: Nordic-RSE biweekly community meeting
     description: |
       agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
