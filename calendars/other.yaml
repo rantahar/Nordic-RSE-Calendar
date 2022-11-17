@@ -1,0 +1,18 @@
+name: Interesting events not by Nordic RSE
+timezone: Europe/Stockholm
+description: |
+  Events organized by other organizations, but we expect to be interesting to Nordic RSE members.
+
+events:
+  - summary: Julia Users Helsinki Meetup
+    description: |
+      Next meetup on November 30 2022 in Otaniemi at 15:00. The room is TBA. This will be the
+      first of a "library development" series, where we will gradually develop a library together
+      and add features step by step. During the first meeting, we will have a general overview
+      of a Julia library structure and general development workflow. As always, free of charge
+      and refreshment included. If you are coming, please register by Thursday 24th November.
+      See https://julia-users-helsinki.github.io/ for details.
+      location: TBA
+    begin: 2022-11-15 15:00:00
+    timezone: Europe/Helsinki
+    duration: { hours: 1 }
