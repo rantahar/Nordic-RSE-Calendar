@@ -40,7 +40,7 @@ events:
       interval: {weeks: 1}
       until: 2023-06-30 23:59:59
 
-  - summary: Nordic-RSE board meeting
+  - summary: Nordic-RSE annual meeting
     description: |
       In the meeting we will briefly present the association
       activities and financial statements for 2022. The meeting is
