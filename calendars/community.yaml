@@ -20,13 +20,21 @@ events:
       agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
     location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
     begin: 2022-09-08 14:00:00
-    duration: { hours: 1 }
+    duration: { minutes: 30 }
     repeat:
       interval: {weeks: 2}
       until: 2023-12-22 23:59:59
       except_on:
         - 2022-10-20 14:00:00
         - 2022-12-29 14:00:00
+        - 2023-01-26 14:00:00
+
+  - summary: Nordic-RSE biweekly community meeting
+    description: |
+      agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+    location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+    begin: 2023-02-02 14:00:00
+    duration: { minutes: 30 }
 
   - summary: RSE coffee break
     description: |
