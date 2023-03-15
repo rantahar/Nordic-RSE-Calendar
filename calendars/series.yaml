@@ -3,7 +3,14 @@ timezone: Europe/Stockholm
 description: |
   Recurring events intended for a large audience.
 
+
 events:
+  - summary: "What a Research Software Engineering group at a Nordic university look like"
+    description: |
+      What does a Research Software Engineering (RSE) group at a Nordic university look like?  Aalto RSE supports the whole university, and Richard Darst and other Aalto RSE members will discuss the history behind their team, the way it works, future prospects, and lessons for others. This talk will focus on the administrative side of things, and discussion will focus on what one should know to reproduce this work at other universities.
+      Aalto University is the leading technical university in Finland. Started in 2020, Aalto RSE now serves the entire university in computing, data, and software problems. They work as part of Science-IT, which is effectively the local "HPC team". They have good connections to the local IT Services, Data Agents, and other research services.    location: "zoom, link in hackmd: <https://hackmd.io/@nordic-rse/seminar-march-2023>"
+    begin: 2023-04-05 13:00:00
+    duration: {hours: 1}
   - summary: "Chapel: Making Parallel Programming Productive, from laptops to supercomputers"
     description: |
       Over the past few decades, a gulf has existed between mainstream programming languages—like Python, Java, C++, Rust, or Swift—and  technologies used in practice for programming supercomputers—like MPI, OpenSHMEM, OpenMP, CUDA, OpenCL, or OpenACC.
