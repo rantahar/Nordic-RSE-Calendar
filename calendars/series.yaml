@@ -5,9 +5,13 @@ description: |
 
 
 events:
-  - summary: "Nordic RSE seminar on ethical and legal aspects of AI"
+  - summary: "AI Regulation in the EU – challenges and latest developments"
     description: |
-      TBD
+      The EU institutions are currently preparing a regulation on Artificial Intelligence (AI). It is a complex process: The continuous and rapid technological development makes it difficult to stay on track – the law is always behind the technology.
+
+      This presentation will outline the latest developments on the path to regulating AI and point out critical aspects.
+      
+      The event will include a 20-30 minute talk, followed by informal discussion.
     location: "zoom, link in hackmd: <https://hackmd.io/@nordic-rse/seminar-May-2023>"
     begin: 2023-05-24 13:00:00
     duration: {hours: 1}
