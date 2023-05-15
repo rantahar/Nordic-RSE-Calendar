@@ -62,3 +62,12 @@ events:
     location: see hackmd
     begin: 2022-10-20 14:00:00
     duration: { minutes: 90 }
+
+  - summary: Planning meeting for the 2023 Unconference
+    description: |
+      Goals for the meeting: find actual date(s), create a short list of persons we would like
+      to hear talks from, assign activities, create a list of deadlines
+      location: please check chat
+    begin: 2023-05-25 15:00:00
+    timezone: Europe/Helsinki
+    duration: { hours: 1 }
