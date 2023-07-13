@@ -48,6 +48,7 @@ events:
     duration: { minutes: 30 }
     repeat:
       interval: {weeks: 1}
+      until: 2030-06-30 23:59:59
 
   - summary: Nordic-RSE annual meeting
     description: |
