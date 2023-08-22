@@ -16,3 +16,30 @@ events:
     begin: 2022-11-30 15:00:00
     timezone: Europe/Helsinki
     duration: { hours: 1 }
+
+  - summary: |
+       A conversation about Equity, Diversity, Inclusion and Accessibility (EDIA) in the RSE
+       community: reflections on successes and challenges
+    description: |
+      See https://diverse-rse.github.io/events/2023-09-12.
+      In the next event in the 2023 DiveRSE series, Ella Kaye (Research Software Engineer,
+      University of Warwick) and Malvika Sharan (Senior Researcher – Open Research at the Alan
+      Turing Institute and co-lead of The Turing Way) will converse about their experiences in/with
+      the RSE community, as well as both the challenges and successes they’ve encountered when
+      working to improve EDIA. In a wide-ranging discussion, they will also consider why all RSEs
+      should be engaged with EDIA and how they can offer support, as well as broader philosophical
+      issues around epistemic justice. There will be time for questions and further discussion.
+    begin: 2023-09-12 12:00:00
+    timezone: Europe/Helsinki
+    duration: { hours: 1 }
+
+  - summary: Julia Users Helsinki Meetup
+    description: |
+      Julia Users Helsinki meets again on August 30th at 16:00 . The topic will be Greetings from JuliaCon,
+      where those who attended will share insights and highlights from JuliaCon.
+      Optionally, you can also join for a self-paid dinner at Fat Lizard.
+      For organization purposes, please confirm your attendance by Sunday 27th August 2023.
+      location: A111a Mordor, Otaakaari 5, Espoo, Finland
+    begin: 2022-08-13 16:00:00
+    timezone: Europe/Helsinki
+    duration: { hours: 1.5 }
