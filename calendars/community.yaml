@@ -71,3 +71,11 @@ events:
     begin: 2023-05-25 15:00:00
     timezone: Europe/Helsinki
     duration: { hours: 1 }
+
+  - summary: Planning meeting for the 2023 Unconference
+    description: |
+      A planning meeting for the upcoming unconference. Meeting notes and current status at 
+      https://hackmd.io/@nordic-rse/unconference-planning.
+    begin: 2023-08-31 15:00:00
+    timezone: Europe/Helsinki
+    duration: { hours: 1 }
