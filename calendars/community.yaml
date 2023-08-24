@@ -29,6 +29,7 @@ events:
         - 2022-12-29 14:00:00
         - 2023-01-26 14:00:00
         - 2023-03-23 14:00:00
+        - 2023-09-07 14:00:00
 
   - summary: Nordic-RSE biweekly community meeting
     description: |
