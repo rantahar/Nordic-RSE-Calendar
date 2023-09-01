@@ -21,5 +21,18 @@ events:
     begin: 2022-10-19 13:00:00
     duration: { hours: 3 }
 
+  - summary: Unconference 2023
+    description: |
+      Nordic RSE 2023 Unconference. See the event page
+      at https://nordic-rse.org/events/2023-online-unconference/
+      and registration page at https://indico.neic.no/e/nordic-rse-unconference-2023
+    begin: 2022-10-25 13:00:00
+    duration: { hours: 3 }
 
-
+  - summary: Unconference 2023
+    description: |
+      Nordic RSE 2023 Unconference. See the event page
+      at https://nordic-rse.org/events/2023-online-unconference/
+      and registration page at https://indico.neic.no/e/nordic-rse-unconference-2023
+    begin: 2022-10-26 13:00:00
+    duration: { hours: 3 }
