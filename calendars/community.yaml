@@ -13,6 +13,8 @@ events:
       also to make important decisions regarding the association, such
       as deciding the size of the membership fee and selecting the
       board for 2023-2024.
+    begin: 2023-10-19 14:00:00
+    duration: { hours: 1 }
   - summary: What Research Group Leaders Need to Know About Software Work
     description: |
       As a group leader, what do you need to know to get the most from your group's
