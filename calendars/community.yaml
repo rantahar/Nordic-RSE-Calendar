@@ -10,7 +10,7 @@ events:
     description: |
       agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
     location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
-    begin: 2023-18-01 14:00:00
+    begin: 2024-01-18 14:00:00
     duration: { minutes: 30 }
     repeat:
       interval: {weeks: 2}
