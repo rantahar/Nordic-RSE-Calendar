@@ -6,6 +6,16 @@ description: |
   Mainly the biweekly community meetings and coffee breaks.
 
 events:
+  - summary: Nordic-RSE biweekly community meeting
+    description: |
+      agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+    location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+    begin: 2023-18-01 14:00:00
+    duration: { minutes: 30 }
+    repeat:
+      interval: {weeks: 2}
+      until: 2024-12-22 23:59:59
+
   - summary: Nordic-RSE annual meeting
     description: |
       In the meeting we will briefly present the association
@@ -23,6 +33,7 @@ events:
     begin: 2022-11-15 14:00:00
     timezone: Europe/Helsinki
     duration: { hours: 1 }
+
 
   - summary: Nordic-RSE biweekly community meeting
     description: |
