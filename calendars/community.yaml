@@ -41,9 +41,18 @@ events:
         - 2023-09-07 14:00:00
         - 2023-10-19 14:00:00
 
+  - summary: Nordic-RSE community meeting
+    description: |
+      Agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+    location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+    begin: 2023-09-26 14:00:00
+    duration: { minutes: 30 }
+    repeat:
+      interval: {weeks: 2}
+
   - summary: Nordic-RSE biweekly community meeting
     description: |
-      agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+      Agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
     location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
     begin: 2023-02-02 14:00:00
     duration: { minutes: 30 }
