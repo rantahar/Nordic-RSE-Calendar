@@ -49,6 +49,7 @@ events:
     duration: { minutes: 30 }
     repeat:
       interval: {weeks: 2}
+      until: 2024-12-31 23:59:59
 
   - summary: Nordic-RSE biweekly community meeting
     description: |
