@@ -84,6 +84,14 @@ events:
     begin: 2022-10-20 14:00:00
     duration: { minutes: 90 }
 
+  - summary: Planning meeting for the 2025 Conference
+    description: |
+      Break conference organization down to individual tasks to make it easier to find volunteers. Other ways to find volunteers?
+    location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+    begin: 2024-10-01 14:00:00
+    timezone: Europe/Helsinki
+    duration: { hours: 1 }
+
   - summary: Planning meeting for the 2023 Unconference
     description: |
       Goals for the meeting: find actual date(s), create a short list of persons we would like
