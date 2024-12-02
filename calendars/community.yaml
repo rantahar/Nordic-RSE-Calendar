@@ -6,6 +6,17 @@ description: |
   Mainly the biweekly community meetings and coffee breaks.
 
 events:
+  - summary: Nordic-RSE Advent of Code session
+    description: |
+      We will meet on Zoom and together have some fun with https://adventofcode.com/ puzzles.
+
+      Zoom meeting will be at https://cscfi.zoom.us/j/66165768646
+
+      More structure/plan coming soon but I just wanted everybody who was
+      interested in this to have it in their calendars.
+    begin: 2024-12-19 09:00:00
+    duration: { hours: 2 }
+
   - summary: Nordic-RSE annual meeting
     description: |
       In the meeting we will briefly present the association
