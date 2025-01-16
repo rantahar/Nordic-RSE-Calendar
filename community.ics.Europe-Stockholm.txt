@@ -1,0 +1,154 @@
+
+
+----------
+Subject: Nordic-RSE Advent of Code session
+Start:   Thursday, 19 December 2024, 09:00 CET
+Description:
+
+We will meet on Zoom and together have some fun with https://adventofcode.com/ puzzles.
+
+Zoom meeting will be at https://cscfi.zoom.us/j/66165768646
+
+More structure/plan coming soon but I just wanted everybody who was
+interested in this to have it in their calendars.
+
+
+----------
+Subject: Nordic-RSE annual meeting
+Start:   Friday, 17 January 2025, 13:00 CET
+Description:
+
+In the meeting we will briefly present the association
+activities and financial statements for 2024. The meeting is
+also to make important decisions regarding the association, such
+as deciding the size of the membership fee and selecting the
+board for 2025. Agenda and connection details in hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2025>.
+
+
+----------
+Subject: Nordic-RSE annual meeting
+Start:   Friday, 25 October 2024, 13:00 CEST
+Description:
+
+In the meeting we will briefly present the association
+activities and financial statements for 2024. The meeting is
+also to make important decisions regarding the association, such
+as deciding the size of the membership fee and selecting the
+board for 2024-2025. Agenda and connection details in hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2024>.
+
+
+----------
+Subject: Nordic-RSE annual meeting
+Start:   Thursday, 19 October 2023, 14:00 CEST
+Description:
+
+In the meeting we will briefly present the association
+activities and financial statements for 2023. The meeting is
+also to make important decisions regarding the association, such
+as deciding the size of the membership fee and selecting the
+board for 2023-2024. Agenda and connection details in hackmd <https://hackmd.io/@nordic-rse/annual_meeting_2023>.
+
+
+----------
+Subject: Nordic RSE annual meeting
+Start:   Tuesday, 15 November 2022, 12:00 CET
+
+
+----------
+Subject:  Nordic-RSE biweekly community meeting
+Start:    Thursday, 08 September 2022, 14:00 CEST
+Location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+Description:
+
+agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+
+
+----------
+Subject:  Nordic-RSE community meeting
+Start:    Thursday, 26 September 2024, 13:00 CEST
+Location: https://aalto.zoom.us/j/62426845282
+Description:
+
+Agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+
+
+----------
+Subject:  Nordic-RSE biweekly community meeting
+Start:    Thursday, 02 February 2023, 14:00 CET
+Location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+Description:
+
+Agenda and contact information on hackmd: https://hackmd.io/@nordic-rse/biweekly/edit
+
+
+----------
+Subject:  RSE coffee break
+Start:    Thursday, 08 September 2022, 09:00 CEST
+Location: https://aalto.zoom.us/j/62426845282 (Zoom ID 624 2684 5282)
+Description:
+
+Weekly virtual coffee break: The RSE Finland group invites all interested in research software engineering to the weekly online coffee break at 10:00 (Europe/Helsinki) every Thursday. The coffee break is an informal meeting, open for everyone to discuss with and listen to others interested in research software engineering. We currently have no pre-decided topics, but never run out of things to say.
+Zoom Link: https://aalto.zoom.us/j/62426845282 (Zoom ID 624 2684 5282)
+Website: https://nordic-rse.org/communities/finland/#weekly-virtual-coffee-break
+HackMD: https://hackmd.io/@nordic-rse/coffeebreak
+
+
+----------
+Subject:  Nordic-RSE annual meeting
+Start:    Thursday, 20 October 2022, 14:00 CEST
+Location: see hackmd
+Description:
+
+In the meeting we will briefly present the association
+activities and financial statements for 2022. The meeting is
+also to make important decisions regarding the association, such
+as deciding the size of the membership fee and selecting the
+board for 2022-2023.
+
+HackMD (including join details): https://hackmd.io/2dL_zztLQBi0UO0hfT7LFQ
+
+
+----------
+Subject:  Planning meeting for the 2025 Conference
+Start:    Thursday, 03 October 2024, 13:00 CEST
+Location: https://aalto.zoom.us/j/62247607160?pwd=dU1KdFFmOWZrNkk4U1c1RHpzYnU2Zz09
+Description:
+
+Break conference organization down to individual tasks to make it easier to find volunteers. Other ways to find volunteers?
+
+
+----------
+Subject: Planning meeting for the 2023 Unconference
+Start:   Thursday, 25 May 2023, 14:00 CEST
+Description:
+
+Goals for the meeting: find actual date(s), create a short list of persons we would like
+to hear talks from, assign activities, create a list of deadlines
+location: please check chat
+
+
+----------
+Subject: Planning meeting for the 2023 Unconference
+Start:   Thursday, 31 August 2023, 14:00 CEST
+Description:
+
+A planning meeting for the upcoming unconference. Meeting notes and current status at 
+https://hackmd.io/@nordic-rse/unconference-planning.
+
+
+----------
+Subject: Planning meeting for the 2023 Unconference
+Start:   Monday, 23 October 2023, 14:30 CEST
+Description:
+
+A planning meeting for the upcoming unconference. Notes/status at
+https://hackmd.io/@nordic-rse/unconference-planning.
+
+
+----------
+Subject: Planning meeting for the 2023 Unconference
+Start:   Tuesday, 24 October 2023, 14:00 CEST
+Description:
+
+A planning meeting for the upcoming unconference. Notes/status at
+https://hackmd.io/@nordic-rse/unconference-planning.

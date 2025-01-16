@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py 0.8.0.dev0 - http://git.io/lLljaA
+BEGIN:VTIMEZONE
+TZID:/ics.py/2020.1/Europe/Helsinki
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0300
+DTSTART:19700329T030000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+RDATE:19700329T030000
+TZNAME:EEST
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0200
+DTSTART:19701025T040000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+RDATE:19701025T040000
+TZNAME:EET
+END:STANDARD
+LAST-MODIFIED:20200620T153818Z
+X-LIC-LOCATION:Europe/Helsinki
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20221130T150000
+DURATION:PT1H
+SUMMARY:Julia Users Helsinki Meetup
+UID:9a242e5b-1462-4eee-946a-3c635b5a86eb@9a24.org
+DESCRIPTION:Next meetup on November 30 2022 in Otaniemi at 15:00. The room 
+ is TBA. This will be the\nfirst of a "library development" series\, where 
+ we will gradually develop a library together\nand add features step by 
+ step. During the first meeting\, we will have a general overview\nof a 
+ Julia library structure and general development workflow. As always\, free
+  of charge\nand refreshment included. If you are coming\, please register 
+ by Thursday 24th November.\nSee https://julia-users-helsinki.github.io/ 
+ for details.\nlocation: TBA
+DTSTAMP:20250116T122131Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20230912T120000
+DURATION:PT1H
+SUMMARY:A conversation about Equity\, Diversity\, Inclusion and 
+ Accessibility (EDIA) in the RSE\ncommunity: reflections on successes and 
+ challenges
+UID:8d07095f-c263-401e-884d-e57558695e1b@8d07.org
+DESCRIPTION:See https://diverse-rse.github.io/events/2023-09-12.\nIn the 
+ next event in the 2023 DiveRSE series\, Ella Kaye (Research Software 
+ Engineer\,\nUniversity of Warwick) and Malvika Sharan (Senior Researcher –
+  Open Research at the Alan\nTuring Institute and co-lead of The Turing 
+ Way) will converse about their experiences in/with\nthe RSE community\, as
+  well as both the challenges and successes they’ve encountered 
+ when\nworking to improve EDIA. In a wide-ranging discussion\, they will 
+ also consider why all RSEs\nshould be engaged with EDIA and how they can 
+ offer support\, as well as broader philosophical\nissues around epistemic 
+ justice. There will be time for questions and further discussion.
+DTSTAMP:20250116T122131Z
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=/ics.py/2020.1/Europe/Helsinki:20220813T160000
+DURATION:PT1H30M
+SUMMARY:Julia Users Helsinki Meetup
+UID:fc2ab5ca-0e25-4a48-9da0-12417e3786e7@fc2a.org
+DESCRIPTION:Julia Users Helsinki meets again on August 30th at 16:00 . The 
+ topic will be Greetings from JuliaCon\,\nwhere those who attended will 
+ share insights and highlights from JuliaCon.\nOptionally\, you can also 
+ join for a self-paid dinner at Fat Lizard.\nFor organization purposes\, 
+ please confirm your attendance by Sunday 27th August 2023.\nlocation: 
+ A111a Mordor\, Otaakaari 5\, Espoo\, Finland
+DTSTAMP:20250116T122131Z
+END:VEVENT
+NAME:Interesting events not by Nordic RSE
+X-WR-CALNAME:Interesting events not by Nordic RSE
+END:VCALENDAR
